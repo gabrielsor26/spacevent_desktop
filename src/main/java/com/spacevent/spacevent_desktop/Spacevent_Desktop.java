@@ -7,7 +7,6 @@ import com.spacevent.spacevent_desktop.Modelo.Personal;
 import com.spacevent.spacevent_desktop.Modelo.PersonalConsulta;
 
 import com.spacevent.spacevent_desktop.Vista.LoginVista;
-//ggHOLASOY GABRIEL
 
 public class Spacevent_Desktop {
 
